@@ -1,1 +1,2 @@
-# Desafio1React1
+# Desafio1 React 1
+Galeria de imagenes
